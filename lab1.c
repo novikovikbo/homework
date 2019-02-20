@@ -1,8 +1,6 @@
 # include <stdio.h>
 # include <stdlib.h> 
 
-//тест как работает эта поебень
-
 main()
 {
  float temp,c,f,k;
